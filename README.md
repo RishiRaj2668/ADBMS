@@ -11,6 +11,10 @@ Part B
 <img width="501" height="318" alt="image" src="https://github.com/user-attachments/assets/84c7204a-5e6c-4b5d-9490-fe44df9fc8cb" />
 <img width="650" height="587" alt="image" src="https://github.com/user-attachments/assets/7a942ab5-f80d-4359-82c1-327c314dc54c" />
 
+
+
+
+
 Part C
 
 
